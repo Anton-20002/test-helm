@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-21T11:39:58.9868205+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5ef704a5382902031c99e8422237c09834f326c0d68cd944e47c417fb2173e2c
+    name: hello
+    type: application
+    urls:
+    - hello-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-21T11:39:58.9862349+03:00"
